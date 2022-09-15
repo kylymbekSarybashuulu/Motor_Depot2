@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "name": "VOLVO",
+    "status": "BASE"
+  },
+  {
+    "id": 2,
+    "name": "DAF",
+    "status": "BASE"
+  },
+  {
+    "id": 3,
+    "name": "RENO",
+    "status": "BASE"
+  }
+]
